@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Victor Arias (a.k.a VicTips), a full stack web developer from Colombia.
+
+
+
 <!--
 **VicTips/VicTips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
