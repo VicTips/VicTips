@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from Colombia</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VicTips&count_private=true&show_icons=true&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api?username=VicTips&count_private=true&show_icons=true&theme=swift" />
 </p>
 
 <h3 align="center">Languages and Tools</h3>
