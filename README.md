@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Victor Arias</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Colombia</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Colombia, and also an accountant. I have experience working with NodeJS, React, Redux, SQL, among other technologies. </h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VicTips&count_private=true&show_icons=true&theme=swift" />
@@ -76,6 +76,7 @@
    </tbody>
 </table>
 
+<p align="center">For the last six years I worked as a high school math teacher, which gave me the chance to improve my critical thinking skills as well as my organizational and planning skills. I am patient, flexible and creative.</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
