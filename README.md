@@ -26,11 +26,16 @@
             <span><strong>Bootstrap</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
             </td>
-             <td width="80px" align="center">
+            <td width="80px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            </td>
+           </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
             <span><strong>MUI</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-        </tr>
-        <tr valign="top">
+            </td>
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -47,12 +52,12 @@
             <span><strong>Express</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
+           </tr>
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>PostgreSQL</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Sequelize</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
@@ -68,11 +73,7 @@
             <span><strong>Canva</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>VSCode</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-            </td>
-         </tr>
+           </tr>
    </tbody>
 </table>
 
