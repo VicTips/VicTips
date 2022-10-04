@@ -28,7 +28,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>Tailwind</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
             </td>
            </tr>
         <tr valign="top">
