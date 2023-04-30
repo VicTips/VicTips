@@ -76,8 +76,9 @@
            </tr>
    </tbody>
 </table>
+<br />
 
-<p align="center">For the last six years I worked as a high school math teacher, which gave me the chance to improve my critical thinking skills as well as my organizational and planning skills. I am patient, flexible and creative.</p>
+<p align="center">I worked as a high school math teacher for six years, which gave me the chance to improve my critical thinking skills as well as my organizational and planning skills. I am patient, flexible and creative.</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
